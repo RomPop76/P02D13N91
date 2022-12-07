@@ -1,4 +1,4 @@
-$(".burger").on("click", function () {
+$(".burger").on("click", function() {
     $(".fas, nav").toggleClass("off");
 })
 

@@ -17,6 +17,7 @@ body {
     right: 30px;
     font-size: 50px;
     z-index: 1;
+    color: black;
 }
 
 i.off {
@@ -30,7 +31,6 @@ i.fa-angle-up {
 nav {
     position: fixed;
     left: 0;
-    /* right: 0; */
     width: 100%;
     top: 0;
     height: 30vh;
@@ -39,5 +39,5 @@ nav {
 }
 
 nav.off {
-    top: -300px;
+    top: -300px
 }
